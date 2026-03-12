@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="GenericRegistry\GenericRegistry.csproj" />
+  <Project Path="GenericStack\GenericStack.csproj" />
+  <Project Path="GenericSwap\GenericSwap.csproj" />
+</Solution>
